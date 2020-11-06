@@ -173,6 +173,7 @@
 .about {
   padding: 2rem 5rem 10rem 5rem;
   font: "Avenir";
+  color: white;
 }
 
 .about__main-title {
@@ -180,6 +181,7 @@
 }
 
 .about__intro {
+  background: #333333;
   display: -ms-grid;
   display: grid;
   grid-template: 'left left right right right';
@@ -554,5 +556,6 @@
 
 body {
   background-color: #e5e5e5;
+  color: set-text-color(white);
 }
 /*# sourceMappingURL=main.css.map */

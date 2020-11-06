@@ -58,6 +58,111 @@ class About extends React.Component{
                 },
                 {
                     name: 'Person Eight',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Nine',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Ten',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Eleven',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Twelve',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Thirteen',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Fourteen',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Fifteen',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Sixteen',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Seventeen',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Eighteen',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Nineteen',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Twenty',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Twenty-one',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Twenty-two',
+                    title: 'Product Designer',
+                    phone: '+1 (773) 123-1231',
+                    email: 'kala.anshika@cwd.com',
+                    image: './images/rocky-wallpaper.jpg'
+                },
+                {
+                    name: 'Person Twenty-three',
                     title: 'Founder, Designer',
                     phone: '+1 (773) 123-1231',
                     email: 'kala.anshika@cwd.com',
