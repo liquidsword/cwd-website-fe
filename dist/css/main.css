@@ -177,7 +177,9 @@
 }
 
 .about__main-title {
-  font-size: 4rem;
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 89.6px;
 }
 
 .about__intro {
@@ -557,5 +559,6 @@
 body {
   background-color: #e5e5e5;
   color: set-text-color(white);
+  font-family: Lora;
 }
 /*# sourceMappingURL=main.css.map */
