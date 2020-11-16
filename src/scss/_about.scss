@@ -1,19 +1,29 @@
 .about {
-    padding: 2rem 5rem 10rem 5rem;
+    
     font: $paragraph-font;
+    
     color: $white-color;
+    width: auto;
 
     &__main-title {
-        font-size: 70px;
+
+        background: $second-color;
+        display: flex;
+        width: auto;
+
+        margin: 0;
+        font-size: 40px;
         font-weight: 700;
         line-height: 89.6px;
     }
 
     &__intro {
-        background: #333333;
+        background: $second-color;
+        padding: 0;
         display: grid;
         grid-template: 'left left right right right';
         grid-gap: 2rem;
+        width: flex;
 
         &-title {
             

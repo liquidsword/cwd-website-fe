@@ -177,6 +177,8 @@
 }
 
 .about__main-title {
+  background: #333333;
+  margin: 0;
   font-size: 70px;
   font-weight: 700;
   line-height: 89.6px;
@@ -184,6 +186,7 @@
 
 .about__intro {
   background: #333333;
+  padding: 0;
   display: -ms-grid;
   display: grid;
   grid-template: 'left left right right right';
