@@ -230,6 +230,12 @@ class About extends React.Component{
 
                 <div>
                     <h3 className='about__services-title'>Services</h3>
+                    <div className='about__services_slides'>
+                        <img className='about__services_slides-one' src={require(`./images/rocky-wallpaper.jpg`)} alt='placeholder' />
+                        <img className='about__services_slides-two' src={require(`./images/rocky-wallpaper.jpg`)} alt='placeholder' />
+                        <img className='about__services_slides-three' src={require(`./images/rocky-wallpaper.jpg`)} alt='placeholder' />
+                    </div>
+                    
                     <div className='about__services'>
                         <div className='about__services-one'>
                             <h5 className='about__services-name'>Strategy & Organization</h5>
@@ -246,12 +252,8 @@ class About extends React.Component{
                             <p className='about__services-description'>lorem this is the description la lorem i dont have it for react lorem</p>
                             <p className='about__services-read'>Read More</p>
                         </div>
-                        <div className='about__services-four'>
-                            <h5 className='about__services-name'>Lotem Ipsum & Sit</h5>
-                            <p className='about__services-description'>lorem this is the description la lorem i dont have it for react lorem</p>
-                            <p className='about__services-read'>Read More</p>
-                        </div>
                     </div>
+                    
                 </div>
 
                 <div className='about__contact'>

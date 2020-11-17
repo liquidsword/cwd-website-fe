@@ -87,6 +87,8 @@
         display: grid;
         grid-template: 'left left right right right';
         grid-gap: 2rem;
+        color: $second-color;
+        padding: 4rem;
 
         &-title {
             grid-area: 'left';
@@ -100,6 +102,7 @@
     }
 
     &__tools_slides {
+        padding-left: 4rem;
         padding-top: 2rem;
         display: grid;
         grid-template: 'one two three four';
@@ -131,26 +134,45 @@
     }
 
     &__services {
+        padding-left: 4rem;
+        color: $second-color;
         display: grid;
         grid-template: 'one two three four';
         grid-gap: 5rem;
         text-align: justify;
 
         &-title {
+            color: $second-color;
+            padding-left: 4rem;
             font-size: 2rem;
             padding-top: 4rem;
         }
+    }
+    
+    &__services_slides {
+        padding-left: 4rem;
+        padding-top: 2rem;
+        display: grid;
+        grid-template: 'one two three four';
+        grid-gap: 3rem;
 
         &-one {
-            grid-area: one;
+            grid-area: 'one';
+            height: 50vh;
+            width: auto;
+            
         }
 
         &-two {
-            grid-area: two;
+            grid-area: 'two';
+            height: 50vh;
+            width: auto;
         }
 
         &-three {
-            grid-area: three;
+            grid-area: 'three';
+            height: 50vh;
+            width: auto;
         }
 
         &-four {
