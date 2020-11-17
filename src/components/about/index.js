@@ -21,99 +21,99 @@ class About extends React.Component{
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Three',
-                    title: 'Co Founder, Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Alexandra Grochowski',
+                    title: 'UX/UI Designer',
+                    email: 'agrochowski132@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Four',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Chelsea Kennedy',
+                    title: 'UX/UI Designer',
+                    email: 'chelsea.aline.kennedy@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Five',
-                    title: 'Founder, Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Pippa Nardie-Warner',
+                    title: 'UX/UI Designer',
+                    email: 'pnardiewarner@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Six',
-                    title: 'Co Founder, Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Alejandro Linan',
+                    title: 'Lead In House Software Engineer',
+                    email: 'jandrolinan@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Seven',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Ingrid Pohl',
+                    title: 'UX Researcher',
+                    email: 'ingpohl@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Eight',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Stephanie Zou',
+                    title: 'Full Stack Developer',
+                    email: '',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Nine',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Nora Villar',
+                    title: 'Service Designer',
+                    email: 'noravillarc@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Ten',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Titania Veda',
+                    title: 'lead Service Designer',
+                    email: 'vedaimpactdesigns@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Eleven',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Andrea Wilson',
+                    title: 'Service Designer',
+                    email: 'andreawi2@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Twelve',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Ayesha Ather',
+                    title: 'UX Researcher',
+                    email: 'ayesha.ath@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Thirteen',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Summer',
+                    title: 'UX/UI Designer',
+                    email: 'summer.elliott.ux@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Fourteen',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Alexandra Sevareid',
+                    title: 'UI Designer',
+                    email: 'alexandra@sevareid.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Fifteen',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Celia Kim',
+                    title: 'UX/UI Designer',
+                    email: 'hi@celiaskim.design',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Sixteen',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'June Tang',
+                    title: 'UX/UI Designer',
+                    email: 'ttkhanhdung@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Seventeen',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Vanessa Guerrero Barragan',
+                    title: 'Design Intern',
+                    email: 'vamarilug@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 },
                 {
-                    name: 'Person Eighteen',
-                    title: 'Product Designer',
-                    email: 'kala.anshika@cwd.com',
+                    name: 'Auden Robertson',
+                    title: 'Full Stack Developer',
+                    email: 'audenrobertson@gmail.com',
                     image: './images/rocky-wallpaper.jpg'
                 }
             ]
