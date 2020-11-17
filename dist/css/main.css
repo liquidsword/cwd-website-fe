@@ -171,26 +171,32 @@
 }
 
 .about {
-  padding: 2rem 5rem 10rem 5rem;
   font: "Avenir";
   color: white;
+  width: auto;
 }
 
 .about__main-title {
   background: #333333;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: auto;
+  padding-left: 4rem;
   margin: 0;
-  font-size: 70px;
+  font-size: 40px;
   font-weight: 700;
   line-height: 89.6px;
 }
 
 .about__intro {
   background: #333333;
-  padding: 0;
+  padding: 4rem;
   display: -ms-grid;
   display: grid;
   grid-template: 'left left right right right';
   grid-gap: 2rem;
+  width: flex;
 }
 
 .about__intro-title {
@@ -207,6 +213,8 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  padding: 4rem;
+  color: #333333;
 }
 
 .about__team-card {
@@ -220,6 +228,7 @@
 
 .about__team-title {
   font-size: 2rem;
+  color: #333333;
 }
 
 .about__team-img {

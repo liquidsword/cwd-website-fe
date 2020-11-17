@@ -10,6 +10,7 @@
         background: $second-color;
         display: flex;
         width: auto;
+        padding-left: 4rem;
 
         margin: 0;
         font-size: 40px;
@@ -19,7 +20,7 @@
 
     &__intro {
         background: $second-color;
-        padding: 0;
+        padding: 4rem;
         display: grid;
         grid-template: 'left left right right right';
         grid-gap: 2rem;
@@ -40,6 +41,8 @@
 
     &__team {
         display: flex;
+        padding: 4rem;
+        color: $second-color;
 
         &-card {
             padding-left: 40%;
@@ -53,6 +56,7 @@
 
         &-title {
             font-size: 2rem;
+            color: $second-color;
         }
 
         &-img {
