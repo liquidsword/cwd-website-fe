@@ -256,7 +256,7 @@ class About extends React.Component{
                     
                 </div>
 
-                <div className='about__contact'>
+                {/* <div className='about__contact'>
                     <h1 className='about__contact-us'>Contact Us</h1>
                     <div className='about__contact-text'>
                         <p>
@@ -268,7 +268,7 @@ class About extends React.Component{
                             <li>lorem ipsum dolor sit amet</li>
                         </ul>
                     </div>
-                </div>
+                </div> */}
             </section>
         )
     }

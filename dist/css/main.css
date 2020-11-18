@@ -307,11 +307,11 @@
 }
 
 .about__services {
+  grid-template: 'left left right right right';
   padding-left: 4rem;
   color: #333333;
   display: -ms-grid;
   display: grid;
-  grid-template: 'one two three four';
   grid-gap: 5rem;
   text-align: justify;
 }
@@ -328,8 +328,8 @@
   padding-top: 2rem;
   display: -ms-grid;
   display: grid;
-  grid-template: 'one two three four';
-  grid-gap: 3rem;
+  grid-template: 'one two three';
+  grid-gap: 5rem;
 }
 
 .about__services_slides-one {
